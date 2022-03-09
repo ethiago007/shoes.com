@@ -23,7 +23,7 @@ h1 {
   text-align: center;
 }
 .wallpaper {
-  background-image: url(/sneakers/photo-1542291026-7eec264c27ff.jpg);
+  background-image: url(./photo-1542291026-7eec264c27ff.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,9 +56,9 @@ h1 {
   padding-left: 30px;
  
 }
-.body {
+/*.body {
   background-color: firebrick;
-}
+}*/
 .navbar {
   font-size: larger;
   
@@ -91,11 +91,11 @@ h1 {
  
 }
 .body1 {
-  background-image: url(/sneakers/photo-1606107557195-0e29a4b5b4aa.avif);
+  background-image: url(./photo-1606107557195-0e29a4b5b4aa.avif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #fff;
+  
 }
 .woman {
   padding-left: 80px;
@@ -155,7 +155,7 @@ h1 {
  
 }
 .body2 {
-  background-image: url(/sneakers/photo-1516478177764-9fe5bd7e9717.avif);
+  background-image: url(./photo-1516478177764-9fe5bd7e9717.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -227,7 +227,7 @@ h1 {
   padding-left: 60px;
 }
 .body3 {
-  background-image: url(/sneakers/photo-1495555961986-6d4c1ecb7be3.avif);
+  background-image: url(./photo-1495555961986-6d4c1ecb7be3.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -245,18 +245,20 @@ h1 {
 }
 footer {
   text-align: center;
+  background-color: black;
+  color: #fff;
 }
 .am {
   float: right;
 }
 .invoice {
-  background-image: url(/sneakers/photo-1542291026-7eec264c27ff.jpg);
+  background-image: url(./photo-1542291026-7eec264c27ff.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .recipt {
-  background-image: url(/sneakers/photo-1460353581641-37baddab0fa2.jpg);
+  background-image: url(./photo-1460353581641-37baddab0fa2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
