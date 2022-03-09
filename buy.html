@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Buying</title>
+</head>
+<body class="invoice">
+    <div class="container">
+        <u>
+            <h1>Purchase Information</h1>
+        </u>
+        <div>
+            <form id="formOne">
+                <div class="form-group">
+                    <b> <label for="person1">Your Name</label></b>
+                    <input id="person1" class="form-control" type="text" required>
+                </div>
+                <div class="form-group">
+                  <br>  <b> <label for="category">Category of Purchase</label></b>
+                    <br>  <div class="radio">
+                        <label>
+                          <input type="radio" name="flavor" value="men" checked>
+                        <b>  Men </b>
+                        </label>
+                      </div>
+                  <br>    <div class="radio">
+                        <label>
+                          <input type="radio" name="flavor" value="women">
+                        <b>  Women </b>
+                        </label>
+                      </div>
+                   <br>   <div class="radio">
+                        <label>
+                          <input type="radio" name="flavor" value="kids">
+                         <b> Kids </b>
+                        </label>
+                      </div>
+                </div>
+             <br>   <div class="form-group">
+                    <b> <label for="size">Size</label></b>
+                    <input id="size" class="form-control" type="text" required>
+                </div>
+                
+                
+             <br>   <div class="form-group">
+                    <b> <label for="color">Desired color</label></b>
+                    <input id="color" class="form-control" type="color" required>
+                </div>
+             <br>   <div class="form-group">
+                    <b> <label for="address">Billing Address</label></b>
+                    <input id="address" class="form-control" type="text" required>
+                </div>
+              <br>  <div class="form-group">
+                    <b> <label for="number">Phone Number</label></b>
+                    <input id="number" class="form-control" type="number" required>
+                </div>
+             <br>   <div class="form-group">
+                    <b> <label for="email">Email Address</label></b>
+                    <input id="email" class="form-control" type="text" required>
+                </div>
+             <br>  <div class="form-group">
+                    <b> <label for="pay">Form of Payment</label></b>
+                    <br>  <div class="radio">
+                        <label>
+                          <input type="radio" name="money" value="Dollar" checked>
+                      <b>  Dollar  </b>
+                        </label>
+                      </div>
+                  <br>    <div class="radio">
+                        <label>
+                          <input type="radio" name="money" value="Naira">
+                          <b> Naira  </b>
+                        </label>
+                      </div>
+                   <br>   <div class="radio">
+                        <label>
+                          <input type="radio" name="money" value="Crypto">
+                          <b> Crypto   </b>
+                        </label>
+                      </div>
+                </div>
+             <br>   <div class="form-group">
+                    <b> <label for="amount">Total Amount</label></b>
+                    <input id="amount" class="form-control" type="number" required>
+                </div>
+
+                <br> <button type="submit" class="btn btn-success">See Invoice</button>
+            </form>
+        </div>
+        <div id="result">
+
+            <div class="title">
+                <h1 class="in">Invoice</h1>
+            </div>
+            <br><br>
+            <div class="outcome">
+                <div class="card iPhone" style="width: 50rem;">
+                    <img src="/sneakers/shoes-shop-logo-template-design-260nw-1680762358.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Shoes.com</h5>
+                      <p class="card-text"><b> Name of buyer ---> <span class="person1"></span></b>
+                        <b> <br> Category of Purchase ---> <span class="category"></span></b> <b> shoes</b>
+                        <b> <br>  Size ---> <span class="size"></span></b>
+                        <b> <br> Color ---> <span class="color"></span></b>
+                        <b><br> Billing Address ---> <span class="address"></span> </b>
+                        <b><br> Email Address ---> <span class="email"></span> </b>
+                        <b><br> Phone Number of Buyer ---> <span class="number"></span> </b>
+                       <b> <br> Payment Method  ---> <span class="pay"></span></b>
+                      <hr>
+                       <b> Total Amount of Goods Purchase ---> <span class="amount"></span></b>
+                        
+                        
+                        
+                    <br>  <a href="receipt.html" ><button type="submit" class="btn btn-success">BUY/PURCAHSE</button></a>
+                    </div>
+                  </div>
+                
+
+
+            </div>
+
+        </div>
+        <hr>
+        <br><br><br><br><br>
+        <div class="card">
+            <footer>
+                <p>Contact us
+                    <br> info@shoes.com
+                    +2348066613776,+2348185593499.
+                </p>
+                <p> No 77 Yaya Abatan Road,Ogba,Lagos,Nigeria.</p>
+                <p> @ 2021 by Adroitsoft. All Rights Reserved</p>
+            </footer>
+
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="js/bootstrap.bundle.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
+

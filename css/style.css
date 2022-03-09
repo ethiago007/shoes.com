@@ -1,0 +1,275 @@
+.lol {
+  float: left;
+}
+.boy {
+  display: flex;
+  
+}
+.nav-item {
+  margin: 40px;
+}
+
+.btn1 {
+  padding-left: 30px;
+ 
+}
+.img {
+  display: inline-flex;
+}
+ li {
+list-style: none;
+}
+h1 {
+  text-align: center;
+}
+.wallpaper {
+  background-image: url(/sneakers/photo-1542291026-7eec264c27ff.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 50px;
+ 
+}
+.img2 {
+  display: inline-flex;
+}
+.cap1 {
+  padding-left: 120px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.cap2 {
+  padding-left: 150px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.btn2 {
+  padding-left: 30px;
+ 
+}
+.cap3 {
+  padding-left: 180px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.btn3 {
+  padding-left: 30px;
+ 
+}
+.body {
+  background-color: firebrick;
+}
+.navbar {
+  font-size: larger;
+  
+}
+.cap4 {
+  padding-left: 120px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.btn4 {
+  padding-left: 30px;
+ 
+}
+.cap5 {
+  padding-left: 150px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.btn5 {
+  padding-left: 40px;
+ 
+}
+.cap6 {
+  padding-left: 130px;
+  font-size: xx-large;
+  color: palegreen;
+}
+.btn6 {
+  padding-left: 65px;
+ 
+}
+.body1 {
+  background-image: url(/sneakers/photo-1606107557195-0e29a4b5b4aa.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff;
+}
+.woman {
+  padding-left: 80px;
+}
+.cap1w {
+  padding-left: 120px;
+  font-size: xx-large;
+  color: black;
+}
+.btn1w {
+  padding-left: 30px;
+ 
+}
+.cap2w {
+  padding-left: 120px;
+  font-size: xx-large;
+  color: black;
+}
+.btn2w {
+  padding-left: 30px;
+ 
+}
+.cap3w {
+  padding-left: 180px;
+  font-size: xx-large;
+  color: black;
+}
+.btn3w {
+  padding-left: 30px;
+ 
+}
+.cap4w {
+  padding-left: 90px;
+  font-size: xx-large;
+  color: black;
+}
+.btn4w {
+  padding-left: 60px;
+ 
+}
+.cap5w {
+  padding-left: 100px;
+  font-size: xx-large;
+  color: black;
+}
+.btn5w {
+  padding-left: 70px;
+ 
+}
+.cap6w {
+  padding-left: 90px;
+  font-size: xx-large;
+  color: black;
+}
+.btn6w {
+  padding-left: 90px;
+ 
+}
+.body2 {
+  background-image: url(/sneakers/photo-1516478177764-9fe5bd7e9717.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.cap1k {
+  padding-left: 80px;
+  font-size: xx-large;
+  color: white;
+}
+.btn1k {
+  padding-left: 90px;
+ 
+}
+.cap2k {
+  padding-left: 150px;
+  font-size: xx-large;
+  color: white;
+}
+.btn2k {
+  padding-left: 70px;
+ 
+}
+.cap3k {
+  padding-left: 80px;
+  font-size: xx-large;
+  color: white;
+}
+.btn3k {
+  padding-left: 70px;
+ 
+}
+.cap4k {
+  padding-left: 90px;
+  font-size: xx-large;
+  color: white;
+}
+.btn4k {
+  padding-left: 60px;
+ 
+}
+.cap5k {
+  padding-left: 100px;
+  font-size: xx-large;
+  color: white;
+}
+.btn5k {
+  padding-left: 70px;
+ 
+}
+.cap6k {
+  padding-left: 190px;
+  font-size: xx-large;
+  color: white;
+}
+.btn6k {
+  padding-left: 90px;
+ 
+}
+.kids {
+  padding-left: 80px;
+}
+.kkk {
+  color: #fff;
+}
+.last {
+  padding-left: 100px;
+}
+.tired {
+  padding-left: 60px;
+}
+.body3 {
+  background-image: url(/sneakers/photo-1495555961986-6d4c1ecb7be3.avif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about {
+  color: white;
+  text-align: center;
+  
+}
+.more {
+  color: maroon;
+}
+.thanks {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+.am {
+  float: right;
+}
+.invoice {
+  background-image: url(/sneakers/photo-1542291026-7eec264c27ff.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.recipt {
+  background-image: url(/sneakers/photo-1460353581641-37baddab0fa2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#result {
+  display: none;
+}
+.in {
+  color: #fff;
+}
+.outcome {
+  text-align: center;
+}
+.card .iPhone {
+  text-align: center;
+}
